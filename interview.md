@@ -48,3 +48,5 @@
 503 Service Unavailable:
 504 Gateway Timeout:
 505 HTTP Version Not Supported:
+
+<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
