@@ -82,7 +82,7 @@ Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
 Cookie: authorstyle=yes
 If-None-Match: "2cc8-3e3073913b100"
 If-Modified-Since: Wed, 01 Sep 2004 13:24:52 GMT
-name=qiu&age=25
+name=ioloveuu&age=25
 
 ```
 
@@ -108,6 +108,6 @@ Cache-Control: max-age=21600
 Expires: Tue, 08 Jul 2014 11:28:43 GMT
 P3P: policyref="http://www.w3.org/2001/05/P3P/p3p.xml"
 Content-Type: text/html; charset=iso-8859-1
-{"name": "qiu", "age": 25}
+{"name": "ioloveuu", "age": 25}
 
 ```
