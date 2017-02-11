@@ -111,3 +111,4 @@ Content-Type: text/html; charset=iso-8859-1
 {"name": "ioloveuu", "age": 25}
 
 ```
+## 5.理解原型和原型链
