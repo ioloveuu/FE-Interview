@@ -109,5 +109,7 @@ Expires: Tue, 08 Jul 2014 11:28:43 GMT
 P3P: policyref="http://www.w3.org/2001/05/P3P/p3p.xml"
 Content-Type: text/html; charset=iso-8859-1
 {"name": "qiu", "age": 25}
-
+.
 ```
+
+##  5.ajax
