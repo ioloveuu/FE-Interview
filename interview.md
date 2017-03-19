@@ -114,3 +114,4 @@ Content-Type: text/html; charset=iso-8859-1
 
 ##  5.ajax
 异步js和XML
+JSON
